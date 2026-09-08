@@ -1,0 +1,14 @@
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\bin\Debug\net10.0\Palindromes.exe
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\bin\Debug\net10.0\Palindromes.deps.json
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\bin\Debug\net10.0\Palindromes.runtimeconfig.json
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\bin\Debug\net10.0\Palindromes.dll
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\bin\Debug\net10.0\Palindromes.pdb
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\obj\Debug\net10.0\Palindromes.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\obj\Debug\net10.0\Palindromes.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\obj\Debug\net10.0\Palindromes.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\obj\Debug\net10.0\Palindromes.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\obj\Debug\net10.0\Palindromes.dll
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\obj\Debug\net10.0\refint\Palindromes.dll
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\obj\Debug\net10.0\Palindromes.pdb
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\obj\Debug\net10.0\Palindromes.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment2\String\Palindromes\Palindromes\obj\Debug\net10.0\ref\Palindromes.dll

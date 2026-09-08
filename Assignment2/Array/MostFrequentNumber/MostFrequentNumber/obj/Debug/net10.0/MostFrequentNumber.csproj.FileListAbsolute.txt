@@ -1,0 +1,14 @@
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\bin\Debug\net10.0\MostFrequentNumber.exe
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\bin\Debug\net10.0\MostFrequentNumber.deps.json
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\bin\Debug\net10.0\MostFrequentNumber.runtimeconfig.json
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\bin\Debug\net10.0\MostFrequentNumber.dll
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\bin\Debug\net10.0\MostFrequentNumber.pdb
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\obj\Debug\net10.0\MostFrequentNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\obj\Debug\net10.0\MostFrequentNumber.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\obj\Debug\net10.0\MostFrequentNumber.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\obj\Debug\net10.0\MostFrequentNumber.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\obj\Debug\net10.0\MostFrequentNumber.dll
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\obj\Debug\net10.0\refint\MostFrequentNumber.dll
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\obj\Debug\net10.0\MostFrequentNumber.pdb
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\obj\Debug\net10.0\MostFrequentNumber.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment2\MostFrequentNumber\MostFrequentNumber\obj\Debug\net10.0\ref\MostFrequentNumber.dll

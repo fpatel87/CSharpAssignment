@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharpAssignment\\GuessNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75BD61F4-4FC4-413F-A328-BAC46A4DEFBB}|GuessNumber\\GuessNumber.csproj|c:\\csharpassignment\\guessnumber\\guessnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BD61F4-4FC4-413F-A328-BAC46A4DEFBB}|GuessNumber\\GuessNumber.csproj|solutionrelative:guessnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\GuessNumber\\GuessNumber\\Program.cs",
+              "RelativeDocumentMoniker": "GuessNumber\\Program.cs",
+              "ToolTip": "C:\\CSharpAssignment\\GuessNumber\\GuessNumber\\Program.cs",
+              "RelativeToolTip": "GuessNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T20:42:42.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

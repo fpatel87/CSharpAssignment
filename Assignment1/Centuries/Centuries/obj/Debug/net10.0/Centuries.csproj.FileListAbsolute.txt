@@ -1,0 +1,14 @@
+C:\CSharpAssignment\Centuries\Centuries\bin\Debug\net10.0\Centuries.exe
+C:\CSharpAssignment\Centuries\Centuries\bin\Debug\net10.0\Centuries.deps.json
+C:\CSharpAssignment\Centuries\Centuries\bin\Debug\net10.0\Centuries.runtimeconfig.json
+C:\CSharpAssignment\Centuries\Centuries\bin\Debug\net10.0\Centuries.dll
+C:\CSharpAssignment\Centuries\Centuries\bin\Debug\net10.0\Centuries.pdb
+C:\CSharpAssignment\Centuries\Centuries\obj\Debug\net10.0\Centuries.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Centuries\Centuries\obj\Debug\net10.0\Centuries.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Centuries\Centuries\obj\Debug\net10.0\Centuries.AssemblyInfo.cs
+C:\CSharpAssignment\Centuries\Centuries\obj\Debug\net10.0\Centuries.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Centuries\Centuries\obj\Debug\net10.0\Centuries.dll
+C:\CSharpAssignment\Centuries\Centuries\obj\Debug\net10.0\refint\Centuries.dll
+C:\CSharpAssignment\Centuries\Centuries\obj\Debug\net10.0\Centuries.pdb
+C:\CSharpAssignment\Centuries\Centuries\obj\Debug\net10.0\Centuries.genruntimeconfig.cache
+C:\CSharpAssignment\Centuries\Centuries\obj\Debug\net10.0\ref\Centuries.dll

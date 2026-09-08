@@ -1,0 +1,14 @@
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\bin\Debug\net10.0\Reverse_Words.exe
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\bin\Debug\net10.0\Reverse_Words.deps.json
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\bin\Debug\net10.0\Reverse_Words.runtimeconfig.json
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\bin\Debug\net10.0\Reverse_Words.dll
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\bin\Debug\net10.0\Reverse_Words.pdb
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\obj\Debug\net10.0\Reverse_Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\obj\Debug\net10.0\Reverse_Words.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\obj\Debug\net10.0\Reverse_Words.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\obj\Debug\net10.0\Reverse_Words.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\obj\Debug\net10.0\Reverse_Words.dll
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\obj\Debug\net10.0\refint\Reverse_Words.dll
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\obj\Debug\net10.0\Reverse_Words.pdb
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\obj\Debug\net10.0\Reverse_Words.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment2\String\Reverse_Words\Reverse_Words\obj\Debug\net10.0\ref\Reverse_Words.dll

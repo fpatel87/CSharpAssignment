@@ -1,0 +1,14 @@
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\bin\Debug\net10.0\Parse_Url.exe
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\bin\Debug\net10.0\Parse_Url.deps.json
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\bin\Debug\net10.0\Parse_Url.runtimeconfig.json
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\bin\Debug\net10.0\Parse_Url.dll
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\bin\Debug\net10.0\Parse_Url.pdb
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\obj\Debug\net10.0\Parse_Url.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\obj\Debug\net10.0\Parse_Url.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\obj\Debug\net10.0\Parse_Url.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\obj\Debug\net10.0\Parse_Url.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\obj\Debug\net10.0\Parse_Url.dll
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\obj\Debug\net10.0\refint\Parse_Url.dll
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\obj\Debug\net10.0\Parse_Url.pdb
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\obj\Debug\net10.0\Parse_Url.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment2\String\Parse_Url\Parse_Url\obj\Debug\net10.0\ref\Parse_Url.dll

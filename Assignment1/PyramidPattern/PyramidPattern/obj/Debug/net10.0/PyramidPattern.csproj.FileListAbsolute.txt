@@ -1,0 +1,14 @@
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\bin\Debug\net10.0\PyramidPattern.exe
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\bin\Debug\net10.0\PyramidPattern.deps.json
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\bin\Debug\net10.0\PyramidPattern.runtimeconfig.json
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\bin\Debug\net10.0\PyramidPattern.dll
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\bin\Debug\net10.0\PyramidPattern.pdb
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\obj\Debug\net10.0\PyramidPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\obj\Debug\net10.0\PyramidPattern.AssemblyInfoInputs.cache
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\obj\Debug\net10.0\PyramidPattern.AssemblyInfo.cs
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\obj\Debug\net10.0\PyramidPattern.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\obj\Debug\net10.0\PyramidPattern.dll
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\obj\Debug\net10.0\refint\PyramidPattern.dll
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\obj\Debug\net10.0\PyramidPattern.pdb
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\obj\Debug\net10.0\PyramidPattern.genruntimeconfig.cache
+C:\CSharpAssignment\PyramidPattern\PyramidPattern\obj\Debug\net10.0\ref\PyramidPattern.dll

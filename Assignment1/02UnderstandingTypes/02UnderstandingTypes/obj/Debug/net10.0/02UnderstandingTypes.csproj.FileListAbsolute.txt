@@ -1,0 +1,14 @@
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net10.0\02UnderstandingTypes.exe
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net10.0\02UnderstandingTypes.deps.json
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net10.0\02UnderstandingTypes.runtimeconfig.json
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net10.0\02UnderstandingTypes.dll
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\bin\Debug\net10.0\02UnderstandingTypes.pdb
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net10.0\02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net10.0\02UnderstandingTypes.AssemblyInfoInputs.cache
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net10.0\02UnderstandingTypes.AssemblyInfo.cs
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net10.0\02UnderstandingTypes.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net10.0\02UnderstandingTypes.dll
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net10.0\refint\02UnderstandingTypes.dll
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net10.0\02UnderstandingTypes.pdb
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net10.0\02UnderstandingTypes.genruntimeconfig.cache
+C:\CSharpAssignment\02UnderstandingTypes\02UnderstandingTypes\obj\Debug\net10.0\ref\02UnderstandingTypes.dll

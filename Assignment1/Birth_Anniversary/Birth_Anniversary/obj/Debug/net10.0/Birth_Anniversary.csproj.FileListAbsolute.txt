@@ -1,0 +1,14 @@
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\bin\Debug\net10.0\Birth_Anniversary.exe
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\bin\Debug\net10.0\Birth_Anniversary.deps.json
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\bin\Debug\net10.0\Birth_Anniversary.runtimeconfig.json
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\bin\Debug\net10.0\Birth_Anniversary.dll
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\bin\Debug\net10.0\Birth_Anniversary.pdb
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\obj\Debug\net10.0\Birth_Anniversary.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\obj\Debug\net10.0\Birth_Anniversary.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\obj\Debug\net10.0\Birth_Anniversary.AssemblyInfo.cs
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\obj\Debug\net10.0\Birth_Anniversary.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\obj\Debug\net10.0\Birth_Anniversary.dll
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\obj\Debug\net10.0\refint\Birth_Anniversary.dll
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\obj\Debug\net10.0\Birth_Anniversary.pdb
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\obj\Debug\net10.0\Birth_Anniversary.genruntimeconfig.cache
+C:\CSharpAssignment\Birth_Anniversary\Birth_Anniversary\obj\Debug\net10.0\ref\Birth_Anniversary.dll

@@ -1,0 +1,14 @@
+C:\CSharpAssignment\TestCode\TestCode\obj\Debug\net10.0\TestCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\TestCode\TestCode\obj\Debug\net10.0\TestCode.AssemblyInfoInputs.cache
+C:\CSharpAssignment\TestCode\TestCode\obj\Debug\net10.0\TestCode.AssemblyInfo.cs
+C:\CSharpAssignment\TestCode\TestCode\obj\Debug\net10.0\TestCode.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\TestCode\TestCode\bin\Debug\net10.0\TestCode.exe
+C:\CSharpAssignment\TestCode\TestCode\bin\Debug\net10.0\TestCode.deps.json
+C:\CSharpAssignment\TestCode\TestCode\bin\Debug\net10.0\TestCode.runtimeconfig.json
+C:\CSharpAssignment\TestCode\TestCode\bin\Debug\net10.0\TestCode.dll
+C:\CSharpAssignment\TestCode\TestCode\bin\Debug\net10.0\TestCode.pdb
+C:\CSharpAssignment\TestCode\TestCode\obj\Debug\net10.0\TestCode.dll
+C:\CSharpAssignment\TestCode\TestCode\obj\Debug\net10.0\refint\TestCode.dll
+C:\CSharpAssignment\TestCode\TestCode\obj\Debug\net10.0\TestCode.pdb
+C:\CSharpAssignment\TestCode\TestCode\obj\Debug\net10.0\TestCode.genruntimeconfig.cache
+C:\CSharpAssignment\TestCode\TestCode\obj\Debug\net10.0\ref\TestCode.dll

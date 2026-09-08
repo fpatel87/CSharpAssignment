@@ -1,0 +1,14 @@
+C:\CSharpAssignment\Excersice03\Excersice03\bin\Debug\net10.0\Excersice03.exe
+C:\CSharpAssignment\Excersice03\Excersice03\bin\Debug\net10.0\Excersice03.deps.json
+C:\CSharpAssignment\Excersice03\Excersice03\bin\Debug\net10.0\Excersice03.runtimeconfig.json
+C:\CSharpAssignment\Excersice03\Excersice03\bin\Debug\net10.0\Excersice03.dll
+C:\CSharpAssignment\Excersice03\Excersice03\bin\Debug\net10.0\Excersice03.pdb
+C:\CSharpAssignment\Excersice03\Excersice03\obj\Debug\net10.0\Excersice03.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Excersice03\Excersice03\obj\Debug\net10.0\Excersice03.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Excersice03\Excersice03\obj\Debug\net10.0\Excersice03.AssemblyInfo.cs
+C:\CSharpAssignment\Excersice03\Excersice03\obj\Debug\net10.0\Excersice03.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Excersice03\Excersice03\obj\Debug\net10.0\Excersice03.dll
+C:\CSharpAssignment\Excersice03\Excersice03\obj\Debug\net10.0\refint\Excersice03.dll
+C:\CSharpAssignment\Excersice03\Excersice03\obj\Debug\net10.0\Excersice03.pdb
+C:\CSharpAssignment\Excersice03\Excersice03\obj\Debug\net10.0\Excersice03.genruntimeconfig.cache
+C:\CSharpAssignment\Excersice03\Excersice03\obj\Debug\net10.0\ref\Excersice03.dll

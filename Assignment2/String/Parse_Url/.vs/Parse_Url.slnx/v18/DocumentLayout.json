@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharpAssignment\\Assignment2\\String\\Parse_Url\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5B129F-227D-4237-9E59-D048F362D6F3}|Parse_Url\\Parse_Url.csproj|c:\\csharpassignment\\assignment2\\string\\parse_url\\parse_url\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5B129F-227D-4237-9E59-D048F362D6F3}|Parse_Url\\Parse_Url.csproj|solutionrelative:parse_url\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Assignment2\\String\\Parse_Url\\Parse_Url\\Program.cs",
+              "RelativeDocumentMoniker": "Parse_Url\\Program.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Assignment2\\String\\Parse_Url\\Parse_Url\\Program.cs",
+              "RelativeToolTip": "Parse_Url\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T00:43:23.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

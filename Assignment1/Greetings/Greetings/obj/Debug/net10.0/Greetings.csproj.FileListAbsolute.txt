@@ -1,0 +1,14 @@
+C:\CSharpAssignment\Greetings\Greetings\bin\Debug\net10.0\Greetings.exe
+C:\CSharpAssignment\Greetings\Greetings\bin\Debug\net10.0\Greetings.deps.json
+C:\CSharpAssignment\Greetings\Greetings\bin\Debug\net10.0\Greetings.runtimeconfig.json
+C:\CSharpAssignment\Greetings\Greetings\bin\Debug\net10.0\Greetings.dll
+C:\CSharpAssignment\Greetings\Greetings\bin\Debug\net10.0\Greetings.pdb
+C:\CSharpAssignment\Greetings\Greetings\obj\Debug\net10.0\Greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Greetings\Greetings\obj\Debug\net10.0\Greetings.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Greetings\Greetings\obj\Debug\net10.0\Greetings.AssemblyInfo.cs
+C:\CSharpAssignment\Greetings\Greetings\obj\Debug\net10.0\Greetings.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Greetings\Greetings\obj\Debug\net10.0\Greetings.dll
+C:\CSharpAssignment\Greetings\Greetings\obj\Debug\net10.0\refint\Greetings.dll
+C:\CSharpAssignment\Greetings\Greetings\obj\Debug\net10.0\Greetings.pdb
+C:\CSharpAssignment\Greetings\Greetings\obj\Debug\net10.0\Greetings.genruntimeconfig.cache
+C:\CSharpAssignment\Greetings\Greetings\obj\Debug\net10.0\ref\Greetings.dll

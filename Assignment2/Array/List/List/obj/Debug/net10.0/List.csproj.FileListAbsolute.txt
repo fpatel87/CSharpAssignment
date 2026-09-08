@@ -1,0 +1,14 @@
+C:\CSharpAssignment\Assignment2\List\List\bin\Debug\net10.0\List.exe
+C:\CSharpAssignment\Assignment2\List\List\bin\Debug\net10.0\List.deps.json
+C:\CSharpAssignment\Assignment2\List\List\bin\Debug\net10.0\List.runtimeconfig.json
+C:\CSharpAssignment\Assignment2\List\List\bin\Debug\net10.0\List.dll
+C:\CSharpAssignment\Assignment2\List\List\bin\Debug\net10.0\List.pdb
+C:\CSharpAssignment\Assignment2\List\List\obj\Debug\net10.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment2\List\List\obj\Debug\net10.0\List.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment2\List\List\obj\Debug\net10.0\List.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment2\List\List\obj\Debug\net10.0\List.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment2\List\List\obj\Debug\net10.0\List.dll
+C:\CSharpAssignment\Assignment2\List\List\obj\Debug\net10.0\refint\List.dll
+C:\CSharpAssignment\Assignment2\List\List\obj\Debug\net10.0\List.pdb
+C:\CSharpAssignment\Assignment2\List\List\obj\Debug\net10.0\List.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment2\List\List\obj\Debug\net10.0\ref\List.dll

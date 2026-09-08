@@ -1,0 +1,14 @@
+C:\CSharpAssignment\Counting\Counting\bin\Debug\net10.0\Counting.exe
+C:\CSharpAssignment\Counting\Counting\bin\Debug\net10.0\Counting.deps.json
+C:\CSharpAssignment\Counting\Counting\bin\Debug\net10.0\Counting.runtimeconfig.json
+C:\CSharpAssignment\Counting\Counting\bin\Debug\net10.0\Counting.dll
+C:\CSharpAssignment\Counting\Counting\bin\Debug\net10.0\Counting.pdb
+C:\CSharpAssignment\Counting\Counting\obj\Debug\net10.0\Counting.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Counting\Counting\obj\Debug\net10.0\Counting.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Counting\Counting\obj\Debug\net10.0\Counting.AssemblyInfo.cs
+C:\CSharpAssignment\Counting\Counting\obj\Debug\net10.0\Counting.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Counting\Counting\obj\Debug\net10.0\Counting.dll
+C:\CSharpAssignment\Counting\Counting\obj\Debug\net10.0\refint\Counting.dll
+C:\CSharpAssignment\Counting\Counting\obj\Debug\net10.0\Counting.pdb
+C:\CSharpAssignment\Counting\Counting\obj\Debug\net10.0\Counting.genruntimeconfig.cache
+C:\CSharpAssignment\Counting\Counting\obj\Debug\net10.0\ref\Counting.dll
