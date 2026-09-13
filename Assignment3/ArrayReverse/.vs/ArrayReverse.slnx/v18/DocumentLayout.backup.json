@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharpAssignment\\Assignment3\\ArrayReverse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBEC28B-DF88-42B0-BC2D-724DA5AEF052}|ArrayReverse\\ArrayReverse.csproj|c:\\csharpassignment\\assignment3\\arrayreverse\\arrayreverse\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBEC28B-DF88-42B0-BC2D-724DA5AEF052}|ArrayReverse\\ArrayReverse.csproj|solutionrelative:arrayreverse\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBEC28B-DF88-42B0-BC2D-724DA5AEF052}|ArrayReverse\\ArrayReverse.csproj|c:\\csharpassignment\\assignment3\\arrayreverse\\arrayreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BBEC28B-DF88-42B0-BC2D-724DA5AEF052}|ArrayReverse\\ArrayReverse.csproj|solutionrelative:arrayreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Assignment3\\ArrayReverse\\ArrayReverse\\Program1.cs",
+              "RelativeDocumentMoniker": "ArrayReverse\\Program1.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Assignment3\\ArrayReverse\\ArrayReverse\\Program1.cs",
+              "RelativeToolTip": "ArrayReverse\\Program1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T21:34:55.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Assignment3\\ArrayReverse\\ArrayReverse\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayReverse\\Program.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Assignment3\\ArrayReverse\\ArrayReverse\\Program.cs",
+              "RelativeToolTip": "ArrayReverse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T21:28:21.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

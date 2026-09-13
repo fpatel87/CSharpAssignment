@@ -1,0 +1,15 @@
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\bin\Debug\net10.0\BallColorDemo.exe
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\bin\Debug\net10.0\BallColorDemo.deps.json
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\bin\Debug\net10.0\BallColorDemo.runtimeconfig.json
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\bin\Debug\net10.0\BallColorDemo.dll
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\bin\Debug\net10.0\BallColorDemo.pdb
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\obj\Debug\net10.0\BallColorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\obj\Debug\net10.0\BallColorDemo.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\obj\Debug\net10.0\BallColorDemo.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\obj\Debug\net10.0\BallColorDemo.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\obj\Debug\net10.0\BallColorDemo.sourcelink.json
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\obj\Debug\net10.0\BallColorDemo.dll
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\obj\Debug\net10.0\refint\BallColorDemo.dll
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\obj\Debug\net10.0\BallColorDemo.pdb
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\obj\Debug\net10.0\BallColorDemo.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment3\BallColorDemo\BallColorDemo\obj\Debug\net10.0\ref\BallColorDemo.dll

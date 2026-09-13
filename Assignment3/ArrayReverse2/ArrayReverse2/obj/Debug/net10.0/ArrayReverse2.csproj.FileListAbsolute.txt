@@ -1,0 +1,15 @@
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\bin\Debug\net10.0\ArrayReverse2.exe
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\bin\Debug\net10.0\ArrayReverse2.deps.json
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\bin\Debug\net10.0\ArrayReverse2.runtimeconfig.json
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\bin\Debug\net10.0\ArrayReverse2.dll
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\bin\Debug\net10.0\ArrayReverse2.pdb
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\obj\Debug\net10.0\ArrayReverse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\obj\Debug\net10.0\ArrayReverse2.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\obj\Debug\net10.0\ArrayReverse2.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\obj\Debug\net10.0\ArrayReverse2.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\obj\Debug\net10.0\ArrayReverse2.sourcelink.json
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\obj\Debug\net10.0\ArrayReverse2.dll
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\obj\Debug\net10.0\refint\ArrayReverse2.dll
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\obj\Debug\net10.0\ArrayReverse2.pdb
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\obj\Debug\net10.0\ArrayReverse2.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment3\ArrayReverse2\ArrayReverse2\obj\Debug\net10.0\ref\ArrayReverse2.dll

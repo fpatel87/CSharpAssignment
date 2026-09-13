@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharpAssignment\\Assignment3\\IneritanceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{288141CE-0E91-4121-B2C0-E95B4FE6EECD}|IneritanceDemo\\IneritanceDemo.csproj|c:\\csharpassignment\\assignment3\\ineritancedemo\\ineritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288141CE-0E91-4121-B2C0-E95B4FE6EECD}|IneritanceDemo\\IneritanceDemo.csproj|solutionrelative:ineritancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Assignment3\\IneritanceDemo\\IneritanceDemo\\Program.cs",
+              "RelativeDocumentMoniker": "IneritanceDemo\\Program.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Assignment3\\IneritanceDemo\\IneritanceDemo\\Program.cs",
+              "RelativeToolTip": "IneritanceDemo\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T02:39:23.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\bin\Debug\net10.0\AbstractionDemo.exe
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\bin\Debug\net10.0\AbstractionDemo.deps.json
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\bin\Debug\net10.0\AbstractionDemo.runtimeconfig.json
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\bin\Debug\net10.0\AbstractionDemo.dll
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\bin\Debug\net10.0\AbstractionDemo.pdb
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\obj\Debug\net10.0\AbstractionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\obj\Debug\net10.0\AbstractionDemo.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\obj\Debug\net10.0\AbstractionDemo.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\obj\Debug\net10.0\AbstractionDemo.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\obj\Debug\net10.0\AbstractionDemo.sourcelink.json
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\obj\Debug\net10.0\AbstractionDemo.dll
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\obj\Debug\net10.0\refint\AbstractionDemo.dll
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\obj\Debug\net10.0\AbstractionDemo.pdb
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\obj\Debug\net10.0\AbstractionDemo.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment3\AbstractionDemo\AbstractionDemo\obj\Debug\net10.0\ref\AbstractionDemo.dll

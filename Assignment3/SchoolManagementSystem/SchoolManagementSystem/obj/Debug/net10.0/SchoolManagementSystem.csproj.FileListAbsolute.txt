@@ -1,0 +1,15 @@
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0\SchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0\SchoolManagementSystem.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0\SchoolManagementSystem.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0\SchoolManagementSystem.sourcelink.json
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0\SchoolManagementSystem.exe
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0\SchoolManagementSystem.deps.json
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0\SchoolManagementSystem.runtimeconfig.json
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0\SchoolManagementSystem.dll
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\net10.0\SchoolManagementSystem.pdb
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0\SchoolManagementSystem.dll
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0\refint\SchoolManagementSystem.dll
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0\SchoolManagementSystem.pdb
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0\SchoolManagementSystem.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment3\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\net10.0\ref\SchoolManagementSystem.dll

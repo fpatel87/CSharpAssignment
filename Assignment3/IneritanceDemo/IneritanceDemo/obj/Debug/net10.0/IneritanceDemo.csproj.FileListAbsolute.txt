@@ -1,0 +1,15 @@
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\bin\Debug\net10.0\IneritanceDemo.exe
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\bin\Debug\net10.0\IneritanceDemo.deps.json
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\bin\Debug\net10.0\IneritanceDemo.runtimeconfig.json
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\bin\Debug\net10.0\IneritanceDemo.dll
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\bin\Debug\net10.0\IneritanceDemo.pdb
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\obj\Debug\net10.0\IneritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\obj\Debug\net10.0\IneritanceDemo.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\obj\Debug\net10.0\IneritanceDemo.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\obj\Debug\net10.0\IneritanceDemo.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\obj\Debug\net10.0\IneritanceDemo.sourcelink.json
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\obj\Debug\net10.0\IneritanceDemo.dll
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\obj\Debug\net10.0\refint\IneritanceDemo.dll
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\obj\Debug\net10.0\IneritanceDemo.pdb
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\obj\Debug\net10.0\IneritanceDemo.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment3\IneritanceDemo\IneritanceDemo\obj\Debug\net10.0\ref\IneritanceDemo.dll

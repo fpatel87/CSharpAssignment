@@ -1,0 +1,15 @@
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\bin\Debug\net10.0\OOPsPrinciples.exe
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\bin\Debug\net10.0\OOPsPrinciples.deps.json
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\bin\Debug\net10.0\OOPsPrinciples.runtimeconfig.json
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\bin\Debug\net10.0\OOPsPrinciples.dll
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\bin\Debug\net10.0\OOPsPrinciples.pdb
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\obj\Debug\net10.0\OOPsPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\obj\Debug\net10.0\OOPsPrinciples.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\obj\Debug\net10.0\OOPsPrinciples.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\obj\Debug\net10.0\OOPsPrinciples.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\obj\Debug\net10.0\OOPsPrinciples.sourcelink.json
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\obj\Debug\net10.0\OOPsPrinciples.dll
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\obj\Debug\net10.0\refint\OOPsPrinciples.dll
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\obj\Debug\net10.0\OOPsPrinciples.pdb
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\obj\Debug\net10.0\OOPsPrinciples.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment3\OOPsPrinciples\OOPsPrinciples\obj\Debug\net10.0\ref\OOPsPrinciples.dll

@@ -1,0 +1,15 @@
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\bin\Debug\net10.0\FibonacciSequence.exe
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\bin\Debug\net10.0\FibonacciSequence.deps.json
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\bin\Debug\net10.0\FibonacciSequence.runtimeconfig.json
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\bin\Debug\net10.0\FibonacciSequence.dll
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\bin\Debug\net10.0\FibonacciSequence.pdb
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\obj\Debug\net10.0\FibonacciSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\obj\Debug\net10.0\FibonacciSequence.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\obj\Debug\net10.0\FibonacciSequence.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\obj\Debug\net10.0\FibonacciSequence.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\obj\Debug\net10.0\FibonacciSequence.sourcelink.json
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\obj\Debug\net10.0\FibonacciSequence.dll
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\obj\Debug\net10.0\refint\FibonacciSequence.dll
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\obj\Debug\net10.0\FibonacciSequence.pdb
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\obj\Debug\net10.0\FibonacciSequence.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment3\FibonacciSequence\FibonacciSequence\obj\Debug\net10.0\ref\FibonacciSequence.dll

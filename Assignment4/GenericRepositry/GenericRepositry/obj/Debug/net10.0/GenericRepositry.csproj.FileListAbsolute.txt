@@ -1,0 +1,15 @@
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\obj\Debug\net10.0\GenericRepositry.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\obj\Debug\net10.0\GenericRepositry.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\obj\Debug\net10.0\GenericRepositry.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\obj\Debug\net10.0\GenericRepositry.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\obj\Debug\net10.0\GenericRepositry.sourcelink.json
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\bin\Debug\net10.0\GenericRepositry.exe
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\bin\Debug\net10.0\GenericRepositry.deps.json
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\bin\Debug\net10.0\GenericRepositry.runtimeconfig.json
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\bin\Debug\net10.0\GenericRepositry.dll
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\bin\Debug\net10.0\GenericRepositry.pdb
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\obj\Debug\net10.0\GenericRepositry.dll
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\obj\Debug\net10.0\refint\GenericRepositry.dll
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\obj\Debug\net10.0\GenericRepositry.pdb
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\obj\Debug\net10.0\GenericRepositry.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment4\GenericRepositry\GenericRepositry\obj\Debug\net10.0\ref\GenericRepositry.dll

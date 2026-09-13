@@ -1,0 +1,15 @@
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\bin\Debug\net10.0\GenericTypeDemo.exe
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\bin\Debug\net10.0\GenericTypeDemo.deps.json
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\bin\Debug\net10.0\GenericTypeDemo.runtimeconfig.json
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\bin\Debug\net10.0\GenericTypeDemo.dll
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\bin\Debug\net10.0\GenericTypeDemo.pdb
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\obj\Debug\net10.0\GenericTypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\obj\Debug\net10.0\GenericTypeDemo.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\obj\Debug\net10.0\GenericTypeDemo.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\obj\Debug\net10.0\GenericTypeDemo.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\obj\Debug\net10.0\GenericTypeDemo.sourcelink.json
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\obj\Debug\net10.0\GenericTypeDemo.dll
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\obj\Debug\net10.0\refint\GenericTypeDemo.dll
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\obj\Debug\net10.0\GenericTypeDemo.pdb
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\obj\Debug\net10.0\GenericTypeDemo.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment4\GenericTypeDemo\GenericTypeDemo\obj\Debug\net10.0\ref\GenericTypeDemo.dll

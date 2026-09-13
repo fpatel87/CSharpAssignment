@@ -1,0 +1,15 @@
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\bin\Debug\net10.0\EncapsulationDemo.exe
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\bin\Debug\net10.0\EncapsulationDemo.deps.json
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\bin\Debug\net10.0\EncapsulationDemo.runtimeconfig.json
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\bin\Debug\net10.0\EncapsulationDemo.dll
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\bin\Debug\net10.0\EncapsulationDemo.pdb
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\obj\Debug\net10.0\EncapsulationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\obj\Debug\net10.0\EncapsulationDemo.AssemblyInfoInputs.cache
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\obj\Debug\net10.0\EncapsulationDemo.AssemblyInfo.cs
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\obj\Debug\net10.0\EncapsulationDemo.csproj.CoreCompileInputs.cache
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\obj\Debug\net10.0\EncapsulationDemo.sourcelink.json
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\obj\Debug\net10.0\EncapsulationDemo.dll
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\obj\Debug\net10.0\refint\EncapsulationDemo.dll
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\obj\Debug\net10.0\EncapsulationDemo.pdb
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\obj\Debug\net10.0\EncapsulationDemo.genruntimeconfig.cache
+C:\CSharpAssignment\Assignment3\EncapsulationDemo\EncapsulationDemo\obj\Debug\net10.0\ref\EncapsulationDemo.dll
