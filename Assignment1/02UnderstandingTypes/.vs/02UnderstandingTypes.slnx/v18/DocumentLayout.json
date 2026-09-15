@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\CSharpAssignment\\02UnderstandingTypes\\",
+  "WorkspaceRootPath": "C:\\CSharpAssignment\\Assignment1\\02UnderstandingTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03F11D3A-1397-4285-9BDE-BEC17A19E3E1}|02UnderstandingTypes\\02UnderstandingTypes.csproj|c:\\csharpassignment\\02understandingtypes\\02understandingtypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03F11D3A-1397-4285-9BDE-BEC17A19E3E1}|02UnderstandingTypes\\02UnderstandingTypes.csproj|solutionrelative:02understandingtypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB1218AA-1694-E3E7-1064-81A8CDC723F9}|02UnderstandingTypes\\02UnderstandingTypes.csproj|c:\\csharpassignment\\assignment1\\02understandingtypes\\02understandingtypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1218AA-1694-E3E7-1064-81A8CDC723F9}|02UnderstandingTypes\\02UnderstandingTypes.csproj|solutionrelative:02understandingtypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CSharpAssignment\\02UnderstandingTypes\\02UnderstandingTypes\\Program.cs",
+              "DocumentMoniker": "C:\\CSharpAssignment\\Assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\Program.cs",
               "RelativeDocumentMoniker": "02UnderstandingTypes\\Program.cs",
-              "ToolTip": "C:\\CSharpAssignment\\02UnderstandingTypes\\02UnderstandingTypes\\Program.cs",
+              "ToolTip": "C:\\CSharpAssignment\\Assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\Program.cs",
               "RelativeToolTip": "02UnderstandingTypes\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

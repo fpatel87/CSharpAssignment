@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CSharpAssignment\\02UnderstandingTypes\\02UnderstandingTypes\\02UnderstandingTypes.csproj",
+      "projectUniqueName": "C:\\CSharpAssignment\\Assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\02UnderstandingTypes.csproj",
       "projectName": "02UnderstandingTypes",
-      "projectPath": "C:\\CSharpAssignment\\02UnderstandingTypes\\02UnderstandingTypes\\02UnderstandingTypes.csproj",
+      "projectPath": "C:\\CSharpAssignment\\Assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\02UnderstandingTypes.csproj",
       "packagesPath": "C:\\Users\\foram\\.nuget\\packages\\",
-      "outputPath": "C:\\CSharpAssignment\\02UnderstandingTypes\\02UnderstandingTypes\\obj\\",
+      "outputPath": "C:\\CSharpAssignment\\Assignment1\\02UnderstandingTypes\\02UnderstandingTypes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
